@@ -5,7 +5,7 @@ Official implementation of ["Tabular Transfer Learning via Prompting LLMs"](http
 **TL;DR**: We propose a novel tabular transfer learning framework that leverages LLM's in-context learning capabilities.
 
 <p align="center">
-    <img src=figure/concept_figure.png width="900"> 
+    <img src=figure/concept_figure.png width="700"> 
 </p>
 
 ## 1. Dependencies
