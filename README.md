@@ -17,7 +17,7 @@ pip install openai==0.28.1
 ```
 
 ## 2. P2T
-See `main.ipynb` to run P2T stey by step. We have provided (i) instructions on downloading the dataset from the OpenML repository and (ii) some example indexes.
+See `main.ipynb` to run P2T stey by step. We have provided (i) instructions on downloading the dataset from the OpenML repository and (ii) some example indexes in the `/data` folder.
 
 ## Citation
 ```bibtex
